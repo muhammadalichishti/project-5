@@ -24,34 +24,34 @@ let track_list = [
   {
     name: "Harley Bird - Home",
     artist: "Jordan Schor",
-    image: "images/music-1.jpg",
-    path: "songs/music-1.mp3"
+    image: "Assets/images/music-1.jpg",
+    path: "Assets/songs/music-1.mp3"
   },
   {
     name: "Ikson Anywhere – Ikson",
     artist: "Audio Library",
-    image: "images/music-2.jpg",
-    path: "songs/music-2.mp3"
+    image: "Assets/images/music-2.jpg",
+    path: "Assets/songs/music-2.mp3"
   },  {
     name: "Beauz & Jvna - Crazy",
     artist: "Beauz & Jvna",
-    image: "images/music-3.jpg",
-    path: "songs/music-3.mp3"
+    image: "Assets/images/music-3.jpg",
+    path: "Assets/songs/music-3.mp3"
   },  {
     name: "Hardwind - Want Me",
     artist: "Mike Archangelo",
-    image: "images/music-4.jpg",
-    path: "songs/music-4.mp3"
+    image: "Assets/images/music-4.jpg",
+    path: "Assets/songs/music-4.mp3"
   },  {
     name: "im - Sun Goes Down",
     artist: "Jim Yosef x Roy",
-    image: "images/music-5.jpg",
-    path: "songs/music-5.mp3"
+    image: "Assets/images/music-5.jpg",
+    path: "Assets/songs/music-5.mp3"
   },  {
     name: "Lost Sky - Vision NCS",
     artist: "NCS Release",
-    image: "images/music-6.jpg",
-    path: "songs/music-6.mp3"
+    image: "Assets/images/music-6.jpg",
+    path: "Assets/songs/music-6.mp3"
   },
 ];
 
