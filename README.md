@@ -3,7 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
-It is a simple but very beautiful music player that changes color whenever we change the song and it is made by Html, Css and Java.
+It is a simple but very beautiful looking music player that changes color whenever we change the song and it is made by Html, Css and Java.
 
 
 ## Features
