@@ -28,7 +28,7 @@ It is a simple but very beautiful music player that changes color whenever we ch
     <td>2.</td>
     <td>
       <p align="center">
-      <img src="./Readme Pictures/Simple Music Player 1.PNG" title="Second Song" alt="Second Song Picture" />
+      <img src="./Readme Pictures/Simple Music Player 2.PNG" title="Second Song" alt="Second Song Picture" />
       <br />
       Second Song
       </p>
@@ -38,7 +38,7 @@ It is a simple but very beautiful music player that changes color whenever we ch
     <td>3.</td>
     <td>
       <p align="center">
-      <img src="./Readme Pictures/Simple Music Player 1.PNG" title="Second Song" alt="Second Song Picture" />
+      <img src="./Readme Pictures/Simple Music Player 3.PNG" title="Second Song" alt="Second Song Picture" />
       <br />
       Third Song
       </p>
